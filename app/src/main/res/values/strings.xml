@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpeechTest</string>
+
+    <string name="title">Test Soundboard</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">What\'s for dinner?</string>
+    <string name="button2">You\'re Welchman</string>
+    <string name="button3">Are you there?</string>
+    <string name="button4">I\'m hungry</string>
+</resources>
